@@ -4,7 +4,7 @@ const express = require("express");
 const cors = require("cors");
 const app = express();
 const PORT = process.env.PORT || 3000;
-const CORS_ORIGIN = process.env.CORS_ORIGIN || "http://localhost:5500";
+const CORS_ORIGIN = process.env.CORS_ORIGIN || "http://127.0.0.1:5500";
 // ── MIDDLEWARES ──────────────────────────────────────────
 app.use(cors({ origin: CORS_ORIGIN }));
 app.use(express.json());
@@ -13,31 +13,30 @@ app.use(express.json());
 const articulos = [
   {
     id: 1,
-    titulo: "Titulo del primer artículo",
-
-    autor: "Nombre Apellido",
-    categoria: "Categoria",
+    titulo: "BRAZO SOLIDARIO",
+    autor: "Gabriel Cabrera",
+    categoria: "SOCIAL",
     descripcion: "Descripcion breve del artículo.",
   },
   {
     id: 2,
     titulo: "Titulo del segundo artículo",
-    autor: "Nombre Apellido",
-    categoria: "Categoria",
+    autor: "Candela Ferreira",
+    categoria: "INFANCIAS",
     descripcion: "Descripcion breve del artículo.",
   },
   {
     id: 3,
-    titulo: "Titulo del tercer artículo",
-    autor: "Nombre Apellido",
-    categoria: "Categoria",
+    titulo: "ORIGEN FEMINISMO",
+    autor: "Lucia Macellaro",
+    categoria: "FEMINISMO",
     descripcion: "Descripcion breve del artículo.",
   },
   {
     id: 4,
-    titulo: "Titulo del cuarto artículo",
-    autor: "Nombre Apellido",
-    categoria: "Categoria",
+    titulo: "ORIGEN LGBT URUGUAY",
+    autor: "Brisa Muñoz",
+    categoria: "LGBT+",
     descripcion: "Descripcion breve del artículo.",
   },
 ];
