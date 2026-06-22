@@ -27,6 +27,8 @@ const articulos = [
       "/Imagenes/gato1.jpg",
       "/Imagenes/gato1.jpg",
     ],
+    tituloIngles: "",
+    contenidoIngles: "",
   },
   {
     id: 2,
@@ -44,6 +46,8 @@ const articulos = [
       "/Imagenes/gato1.jpg",
       "/Imagenes/gato1.jpg",
     ],
+    tituloIngles: "",
+    contenidoIngles: "",
   },
   {
     id: 3,
@@ -61,6 +65,8 @@ const articulos = [
       "/Imagenes/gato1.jpg",
       "/Imagenes/gato1.jpg",
     ],
+    tituloIngles: "",
+    contenidoIngles: "",
   },
   {
     id: 4,
@@ -88,7 +94,18 @@ Es muy importante entender que los avances son aceptados y bienvenidos pero que 
       "/Imagenes/4TAMARCHALGBT.jpg",
       "/Imagenes/OvejasNegrasLOGO.png",
       "/Imagenes/MARCHA1994.jpg",
+      "/Imagenes/matrimonioIgualitario.jpg",
+      "/Imagenes/matrimonioIgualitario2.jpg",
     ],
+    tituloIngles: "Marriage Equality Law In Uruguay",
+    contenidoIngles: `The story began long before the approval of the Marriage Equality Law in 2013. Between 2000 and 2004, members of the political left began presenting bills to recognize the rights of same-sex couples but none of them were approved. In 2008, the Civil Union Law recognized legal and property rights for same-sex couples. A year later, the Adoption Law was also modified to allow them to adopt children. Looking back, it took way too long for these rights to be recognized, considering how normal they seem nowadays.
+The draft of the Marriage Equality Law was written by Michelle Suaréz, a transgender lawyer and member of Ovejas Negras. The goal was to remove all the gendered language from the definition of marriage. The law defined marriage as the union of two people regardless of sex, gender identity or sexual orientation. The terms “husband” and “wife” became “contracting parties”. It also guaranteed not only the right to adopt, as previously mentioned, but also access to assisted reproduction.
+Although Michelle Suaréz was the one behind drafting the law, it was Sebastián Sabini, a deputy from Frente Amplio, the one who presented the draft to the Parliament and helped secure its approval. Despite receiving wide parliamentary support, the law was delayed by public hearings and then the Senate made modifications that required it to return to the Chamber of Deputies. Finally, the decisive vote took place in the Senate Chamber. With 23 votes in favor and 8 against, most of them from Frente Amplio, but with the support of some senators from the Partido Nacional and Partido Colorado, the law was approved. The ones who voted against it said that the law threatened the traditional concept of family, which they defined as a man, a woman and their children (In my opinion, a concept as old as Mirtha Legrand).
+As if being delayed and sent back and forth through Parliament wasn't enough, a transcription error required a second corrective law, leaving Uruguay with two laws that together established marriage equality.
+The approval of the Marriage Equality Law made Uruguay the second country in Latin America and the twelfth in the world to do so and also positioned us as one of the most LGBTQ+ friendly countries. 
+Today, the Marriage Equality Law is remembered as a major milestone for the LGBTQ+ community. However, it also included a fragment prohibiting children under the age of sixteen from getting married. This surprised me and made me wonder why so many people who glorified and defended the concept of “traditional family” were outraged by two consenting adults getting married yet seemed far less concerned about the possibility of a child being forced into marriage, even if it was another child or even worse an adult.
+ I’m aware I’m not  being completely objective in this article. Even when writing about history, an article like this will always reflect the writer's point of view, and I can say that proudly because I know where I stand.
+`,
   },
 ];
 // ── RUTAS ────────────────────────────────────────────────
