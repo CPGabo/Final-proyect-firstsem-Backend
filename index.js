@@ -102,7 +102,8 @@ crezcan sin las mismas posibilidades que otros.`,
     titulo: "Origen del FEMINISMO en Uruguay",
     autor: "Lucia Macellaro",
     categoria: "FEMINISMO",
-    descripcion: "",
+    descripcion:
+      "La historia de como el feminismo aparece y crece para asegurar los derechos de las muejeres en Uruguay",
     contenido: `El feminismo es un movimiento social, político y filosófico que busca la igualdad de derechos, oportunidades y libertades entre mujeres y hombres. Además, cuestiona las estructuras que perpetúan la desigualdad y la opresión por cuestiones de género promoviendo su transformación. 
 Comenzó en el siglo XVIII durante la Revolución Francesa cuando comenzaron a difundirse las ideas  de igualdad, libertad y  derechos universales. Sin embargo, estos principios se aplicaban a los hombres dejando excluidas a las mujeres. Frente a esta contradicción, muchas mujeres comenzaron a reclamar el reconocimiento a sus derechos dando origen a las primeras reivindicaciones feministas. 
 A lo largo de la historia, el feminismo ha tenido distintas etapas, llamadas olas del feminismo, cada una de ellas centrada en demandas y problemáticas específicas. A su vez, dentro del feminismo existen diversas corrientes que proponen distintas formas de comprender este movimiento. No obstante, el objetivo de conseguir la igualdad sigue siendo el mismo. 
@@ -122,10 +123,12 @@ Tal vez nos podamos preguntar cuándo dejaremos de surfear entre las olas y lleg
 `,
     imagenes: [
       "/Imagenes/8M-2026.jpg",
-      "/Imagenes/brujas8m.jpg",
+      "/Imagenes/paulina-luisi.jpg",
       "/Imagenes/8m-fuego.jpg",
+      "/Imagenes/8m-ladiaria.jpg",
+      "/Imagenes/brujas8m",
     ],
-    tituloIngles: "",
+    tituloIngles: "The Origins of the 8M March in Uruguay",
     contenidoIngles: `The 8M march is an annual mobilization that takes place every March 8th in different parts of the world to commemorate the International Women’s Day. It's a demonstration of advocacy and protest in which feminist movements, social organizations and labor unions take the street to demand equal rights and protest against the violence and discrimination faced by women.
 In Uruguay, every year the 8M March brings together thousands of women in a purple tide marching along Av. 18 de Julio, in Montevideo, advocating for women’s rights social justice and ends with gender-based violence.
 During the final months of the Uruguayan civic-military dictatorship in 1984, the first public expressions of collective mobilization for the International Women’s Day took place. In a context marked for censorship and repression, two pioneering actions were carried out. 
@@ -138,10 +141,11 @@ This latest event also brought back the reminder that it is not a date to celebr
   },
   {
     id: 4,
-    titulo: "La historia detrás del movimiento LGBT+ en Uruguay",
+    titulo: "El movimiento LGBT+ en Uruguay",
     autor: "Brisa Muñoz",
     categoria: "LGBT+",
-    descripcion: "Descripcion breve del artículo.",
+    descripcion:
+      "Una historia de resistencia: los colectivos que desafiaron la violencia estatal y abrieron camino a la igualdad de derechos",
     contenido: `Durante la dictadura, la comunidad LGBT+ era perseguida y secuestrada por los militares, y en los primeros años de democracia, la policía continuó ejerciendo violencia. Como única respuesta y forma de defenderse, los miembros de la comunidad comienzan a organizarse, creando los primeros colectivos en los cuales se protegían unos a otros y que más adelante llamaron a la concentración en espacios públicos como forma de manifestación.
  La Fundación Escorpio es de los primeros, originada en 1984 sus miembros se encargaron de repartir folletos avisando sobre las formas de la policía para detener a homosexuales y travestis, difundian la declaración de la O.M.S de que la homosexualidad no era una enfermedad y realizaban eventos culturales en el “Boliche Arcoíris”. Homosexuales Unidos apareció unos años después en 1988, era un grupo más diverso: gays, lesbianas y travestis, ya un poco más organizados incluso con una sede propia. Dentro de HU existía LESVENUS, un espacio conformado por mujeres lesbianas feministas. Fueron los primeros en tener propaganda masiva en diarios, radios y stickers, participaron de la coordinadora Anti-Razzias. HU fue parte de la primera concentración pública en junio de 1992.
 De Homosexuales Unidos algunos ex miembros fundan el Movimiento de Integración Homosexual. En el mismo período se crea la Mesa Coordinadora de Travestis quienes trabajaron específicamente contra los prejuicios del VIH y la exclusión social. 
