@@ -103,7 +103,7 @@ crezcan sin las mismas posibilidades que otros.`,
     autor: "Lucia Macellaro",
     categoria: "FEMINISMO",
     descripcion:
-      "La historia de como el feminismo aparece y crece para asegurar los derechos de las muejeres en Uruguay",
+      "La historia de como el feminismo aparece y crece para asegurar los derechos de las mujeres en Uruguay",
     contenido: `El feminismo es un movimiento social, político y filosófico que busca la igualdad de derechos, oportunidades y libertades entre mujeres y hombres. Además, cuestiona las estructuras que perpetúan la desigualdad y la opresión por cuestiones de género promoviendo su transformación. 
 Comenzó en el siglo XVIII durante la Revolución Francesa cuando comenzaron a difundirse las ideas  de igualdad, libertad y  derechos universales. Sin embargo, estos principios se aplicaban a los hombres dejando excluidas a las mujeres. Frente a esta contradicción, muchas mujeres comenzaron a reclamar el reconocimiento a sus derechos dando origen a las primeras reivindicaciones feministas. 
 A lo largo de la historia, el feminismo ha tenido distintas etapas, llamadas olas del feminismo, cada una de ellas centrada en demandas y problemáticas específicas. A su vez, dentro del feminismo existen diversas corrientes que proponen distintas formas de comprender este movimiento. No obstante, el objetivo de conseguir la igualdad sigue siendo el mismo. 
