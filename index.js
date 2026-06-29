@@ -42,7 +42,7 @@ organizada: asilos privados, orfanatos y comisiones de beneficencia gestionaban 
 cuidado sin que el Estado asumiera ninguna responsabilidad directa.
 Ese año todo cambió con la promulgación del Código del Niño, una ley que
 introdujo algo revolucionario para su época: la idea de que la infancia no es un
- objeto de compasión, sino un sujeto de derechos.`
+ objeto de compasión, sino un sujeto de derechos.`,
     subtitulo: "",
     contenido2: `Como consecuencia directa, el 6 de abril de 1934 nació el Consejo del Niño, el
 primer organismo estatal especializado en el cuidado y la protección de niños, niñas
@@ -84,16 +84,19 @@ exacta de su propia humanidad y de su justicia, si fallamos en el origen, estamo
 comprometiendo el destino. Por eso, aunque existan avances, la desigualdad y la
 falta de oportunidades nos siguen planteando una pregunta incómoda y profunda:
 ¿qué tipo de sociedad pretendemos construir si permitimos que algunos niños
-crezcan sin las mismas posibilidades que otros.`
+crezcan sin las mismas posibilidades que otros.`,
     imagenes: [
-      "IMAGENES/2articulo.pgn",
-      "IMAGENES/articuloinau.pgn",
-      ],
+      "Imagenes/2articulo.pgn",
+      "Imagenes/articuloinau.pgn",
+      "Imagenes/",
+      "Imagenes/",
+      "Imagenes/",
+    ],
     tituloIngles: "When Uruguay learned to see its children, in English",
     contenidoIngles: `Caring for children is not just another social policy, nor a future budget expense — it is the fundamental ethical act that justifies the existence of a State.
      A country that does not protect its children is not building its future; it is jeopardizing its own existence before society. Because the way Uruguay looks at, protects, and dignifies its children today is, ultimately, the exact measure of its own humanity and justice. If we fail at the origin, we are jeopardizing the destiny.
       That is why, even though progress has been made, inequality and the lack of opportunities continue to raise an uncomfortable and profound question for us: what kind of society do we intend to build if we allow some children to grow up without the same opportunities as others?`,
-  }, 
+  },
   {
     id: 3,
     titulo: "Origen del FEMINISMO en Uruguay",
