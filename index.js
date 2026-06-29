@@ -16,7 +16,8 @@ const articulos = [
     titulo: "Brazo Solidario",
     autor: "Gabriel Cabrera",
     categoria: "COMUNIDAD",
-    descripcion: "El apoyo sin apoyo",
+    descripcion:
+      "Movimientos comunitarios que transforman la solidaridad en acciones concretas para construir una sociedad más justa.",
     contenido: `
 En el Uruguay del 2010, mientras la sociedad estaba unida y salía dando 
 vítores a las calles al unísono, al ritmo de un “vamo’ Uruguay”, en Puntas de Manga, más precisamente en el asentamiento Villa Camila, un grupo de amigos se organizaba para atacar una problemática para muchos invisible: la precariedad. Sin imaginar que estaban dando los primeros pasos, de lo que más tarde se convertiría en el lugar favorito de muchas niñas, niños y adolescentes.
@@ -146,7 +147,7 @@ Tal vez nos podamos preguntar cuándo dejaremos de surfear entre las olas y lleg
 `,
     imagenes: [
       "/Imagenes/paulina-luisi.jpg",
-       "/Imagenes/8m-1989.jpg",
+      "/Imagenes/8m-1989.jpg",
       "/Imagenes/8m-fuego.jpg",
       "/Imagenes/brujas8m.jpg",
       "/Imagenes/8m-ladiaria.jpg",
