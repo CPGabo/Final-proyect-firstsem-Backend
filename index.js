@@ -47,20 +47,42 @@ const articulos = [
   },
   {
     id: 3,
-    titulo: "FEMINISMO",
+    titulo: "Origen del FEMINISMO en Uruguay",
     autor: "Lucia Macellaro",
     categoria: "FEMINISMO",
-    descripcion: "Descripcion breve del artículo.",
-    contenido: ``,
-    subtitulo: "El subtítulo acá",
-    contenido2: ``,
+    descripcion: "",
+    contenido: `El feminismo es un movimiento social, político y filosófico que busca la igualdad de derechos, oportunidades y libertades entre mujeres y hombres. Además, cuestiona las estructuras que perpetúan la desigualdad y la opresión por cuestiones de género promoviendo su transformación. 
+Comenzó en el siglo XVIII durante la Revolución Francesa cuando comenzaron a difundirse las ideas  de igualdad, libertad y  derechos universales. Sin embargo, estos principios se aplicaban a los hombres dejando excluidas a las mujeres. Frente a esta contradicción, muchas mujeres comenzaron a reclamar el reconocimiento a sus derechos dando origen a las primeras reivindicaciones feministas. 
+A lo largo de la historia, el feminismo ha tenido distintas etapas, llamadas olas del feminismo, cada una de ellas centrada en demandas y problemáticas específicas. A su vez, dentro del feminismo existen diversas corrientes que proponen distintas formas de comprender este movimiento. No obstante, el objetivo de conseguir la igualdad sigue siendo el mismo. 
+Según Graciela Sapriza, los primeros movimientos del feminismo en Uruguay, comienzan en el año 1881, cuando el Comité de Mujeres Socialistas convocó a afiliarse a la Primera Internacional. En sus inicios, el movimiento estaba vinculado  al mundo del trabajo y a las corrientes sindicalistas, reclamando, entre otras demandas, igual salario para igual trabajo. 
+Sin embargo fue con la maestra Paulina Luisi que el feminismo tomó fuerza y conciencia como tal en una lucha por conseguir el sufragio femenino. Se tenía la idea de que otorgarle el voto a las mujeres sería la llave para que las mujeres adquieran todos los derechos no obstante queda expuesto que sólo con el voto no es suficiente para que la igualdad entre hombres y mujeres sea efectiva.
+El sufragio femenino fue aprobado en el año 1932 aunque debido al golpe de Estado de Terra no se pudo ejercer hasta las Elecciones Nacionales de 1938. Posteriormente, en 1942 ingresaron cuatro mujeres al Parlamento, cuyo trabajo logró la aprobación de la Ley de Derechos Civiles de la Mujer en 1846. Esta nueva ley cierra la primera etapa del feminismo en el país, al reconocer importantes derechos como comprar, administrar y vender bienes propios, compartir la administración de la sociedad conyugal, y el ejercicio de la patria potestad de sus hijos menores de edad, sin importar si hay un divorcio y un nuevo matrimonio. 
+`,
+    subtitulo: "",
+    contenido2: `Mientras que en otras partes del mundo como Europa y Estado Unidos, durante los años sesenta comenzaba la segunda ola del feminismo, en Uruguay el proceso se vió interrumpido debido al inicio de la dictadura cívico-militar en junio de 1973. Durante los siguientes 12 años se restringieron varios derechos incluídos la libertad de expresión, lo que entorpeció la organización y  lucha del movimiento feminista.
+Sobre lo que significó ese período para el feminismo en Uruguay,  Lilian Celiberti  escribió: “Venimos de un feminismo nacido de la resistencia al terrorismo de Estado, al autoritarismo y a la vejación del  cuerpo en la tortura y la cárcel. Un feminismo que tenía escasos conocimientos teóricos pero mucha rebeldía antiautoritaria y que asumió la escritura de un texto con borrones,  con tachaduras, con diferentes letras, con subrayados contradictorios, pero irreverente y autónomo”.
+ Durante los meses finales de la dictadura, en 1984 en un contexto marcado por la censura y la represión, se realizaron las primeras expresiones públicas de movilización colectiva por el Día Internacional de la Mujer, el 8 de marzo.  Un grupo de mujeres se reunieron en la Plaza Cagancha para realizar un acto simbólico de colocar rosas en el Monumento de la Libertad. Las Fuerzas Armadas rodearon el espacio para evitarlo pero la acción sentó el precedente de ocupar el espacio público. Mientras tanto, la convocatoria PLEMUU logró evitar la vigilancia militar organizando un acto de resistencia barrial en Paso Molino. Este movimiento permitió visibilizar de manera colectiva las demandas de violencia de género junto con los reclamos de la recuperación democrática. 
+Bajo la consigna de “lo privado es político”, se comenzó a cuestionar las desigualdades presentes en el hogar, además de las existentes en el ámbito público.  Al pasar las décadas el feminismo amplió sus reivindicaciones, tomando en cuenta otras formas de desigualdad e incorporando las perspectivas de distintos colectivos, como las mujeres afrodescendientes y los movimientos queer.
+Con la llegada de la tercera ola del feminismo, en el año 1990 la marcha del 8M fue escenario de un aquelarre. Mujeres disfrazadas de brujas  marcharon por la Av. 18 de Julio. resignificando de manera creativa la historia de persecución de las mujeres independientes desafiando los estereotipos de género. 
+El 8 de marzo de 2017 ocurrió el primer Paro Internacional de Mujeres que reunió a más de  150.000 mujeres en Uruguay. Esta convocatoria marcó un punto de inflexión para el movimiento feminista, fortaleciendo su visibilidad y consolidando el 8M como una de las principales manifestaciones sociales del país. Este último acontecimiento junto con el crecimiento del movimiento feminista durante la última década nos trajo el recordatorio que esta fecha de celebración sino una jornada de memoria, reflexión y reivindicación. También contribuyó a ampliar el conocimiento sobre qué es realmente el feminismo y a visibilizar problemáticas que, pese a décadas de lucha aún persisten.
+También nos hace reflexionar de cómo estamos como sociedad, cuánto hemos avanzado y cuánto queda por recorrer. Aunque muchas de las reivindicaciones del feminismo hoy puedan parecer evidentes, las desigualdades y las distintas formas de violencia de género aún continúan presentes. 
+Tal vez nos podamos preguntar cuándo dejaremos de surfear entre las olas y llegaremos al fin a la orilla. 
+`,
     imagenes: [
-      "/Imagenes/gato1.jpg",
-      "/Imagenes/gato1.jpg",
-      "/Imagenes/gato1.jpg",
+      "/Imagenes/8M-2026.jpg",
+      "/Imagenes/brujas8m.jpg",
+      "/Imagenes/8m-fuego.jpg",
     ],
     tituloIngles: "",
-    contenidoIngles: ``,
+    contenidoIngles: `The 8M march is an annual mobilization that takes place every March 8th in different parts of the world to commemorate the International Women’s Day. It's a demonstration of advocacy and protest in which feminist movements, social organizations and labor unions take the street to demand equal rights and protest against the violence and discrimination faced by women.
+In Uruguay, every year the 8M March brings together thousands of women in a purple tide marching along Av. 18 de Julio, in Montevideo, advocating for women’s rights social justice and ends with gender-based violence.
+During the final months of the Uruguayan civic-military dictatorship in 1984, the first public expressions of collective mobilization for the International Women’s Day took place. In a context marked for censorship and repression, two pioneering actions were carried out. 
+On the one hand, a group women gathered with the intention of holding a symbolic event placing roses in the Statue of Liberty in the Plaza Cagancha. The Armed Forces surrounded the place to prevent the act, but the action set a precedent for the occupation of public space. 
+In parallel, the Women’s Plenary (PLEMUU) evaded part of the military surveillance and organized a neighborhood act of resistance in Paso Molino. This mobilization brought visibility to demands related to gender-based violence and the restoration of democracy. 
+ In 1989 the movement held the first formal  and unified march. Various organizations participated in a mobilization from the Comisión Nacional Pro Referéndum to Plaza Libertad, where a declaration of women 's rights was read aloud. 
+In 1990, breaking with the traditional solemnity, the Av. 18 de Julio  turned into a Witches Sabbath with the demonstrators dressed like witches. The event became known as the “La marcha de las Brujas” (The Witches March).  It was a creative way to reclaim the historical persecution of independent women.
+Decades later, in 2017, this movement was renewed giving rise to a large-scale demonstration with significant social impact as we know today. On March 8th in Uruguay, The First International Women’s Strike took place, a call to action that exceeded all the expectations and marked a turning point in the history of the country’s feminist movement. Almost 300.000 protesters attended in Montevideo and the 8M was established as a central date on the agenda of feminist and social movements in Uruguay. 
+This latest event also brought back the reminder that it is not a date to celebrate. Not yet. It is a day of advocacy until the goals of feminism are finally achieved. Ironically, in Uruguay, until recently, this date was used for commercial purposes to congratulate women and promote gifts such as chocolates, beauty products, and other actions that only served to widen the gap. Fortunately, today more girls and women have access to information that empowers themself. The journey ahead is long, but together we can make a difference. We will keep riding the waves until, one day, we reach the shore.`,
   },
   {
     id: 4,
