@@ -110,11 +110,11 @@ falta de oportunidades nos siguen planteando una pregunta incómoda y profunda:
 ¿qué tipo de sociedad pretendemos construir si permitimos que algunos niños
 crezcan sin las mismas posibilidades que otros.`,
     imagenes: [
-      "Imagenes/2articulo.pgn",
-      "Imagenes/articuloinau.pgn",
-      "Imagenes/",
-      "Imagenes/",
-      "Imagenes/",
+      "/Imagenes/3inau.png",
+      "/Imagenes/2articulo.png",
+      "/Imagenes/4inau.png",
+      "/Imagenes/5inau.png",
+      "/Imagenes/articuloinau.png",
     ],
     tituloIngles: "When Uruguay learned to see its children, in English",
     contenidoIngles: `Caring for children is not just another social policy, nor a future budget expense — it is the fundamental ethical act that justifies the existence of a State.
