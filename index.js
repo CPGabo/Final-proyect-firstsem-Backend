@@ -122,11 +122,11 @@ También nos hace reflexionar de cómo estamos como sociedad, cuánto hemos avan
 Tal vez nos podamos preguntar cuándo dejaremos de surfear entre las olas y llegaremos al fin a la orilla. 
 `,
     imagenes: [
-      "/Imagenes/8M-2026.jpg",
       "/Imagenes/paulina-luisi.jpg",
+       "/Imagenes/8m-1989.jpg",
       "/Imagenes/8m-fuego.jpg",
+      "/Imagenes/brujas8m.jpg",
       "/Imagenes/8m-ladiaria.jpg",
-      "/Imagenes/brujas8m",
     ],
     tituloIngles: "The Origins of the 8M March in Uruguay",
     contenidoIngles: `The 8M march is an annual mobilization that takes place every March 8th in different parts of the world to commemorate the International Women’s Day. It's a demonstration of advocacy and protest in which feminist movements, social organizations and labor unions take the street to demand equal rights and protest against the violence and discrimination faced by women.
