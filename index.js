@@ -13,20 +13,43 @@ app.use(express.json());
 const articulos = [
   {
     id: 1,
-    titulo: "BRAZO SOLIDARIO",
+    titulo: "Brazo Solidario",
     autor: "Gabriel Cabrera",
-    categoria: "SOCIAL",
-    descripcion: "Descripcion breve del artículo.",
-    contenido: ``,
-    subtitulo: "El subtítulo acá",
-    contenido2: ``,
+    categoria: "COMUNIDAD",
+    descripcion: "El apoyo sin apoyo",
+    contenido: `
+En el Uruguay del 2010, mientras la sociedad estaba unida y salía dando 
+vítores a las calles al unísono, al ritmo de un “vamo’ Uruguay”, en Puntas de Manga, más precisamente en el asentamiento Villa Camila, un grupo de amigos se organizaba para atacar una problemática para muchos invisible: la precariedad. Sin imaginar que estaban dando los primeros pasos, de lo que más tarde se convertiría en el lugar favorito de muchas niñas, niños y adolescentes.
+
+En un principio buscaron mitigar el peso que conlleva a muchas familias tener un plato de comida para todos los días, creando primeramente una olla popular y con el tiempo actividades itinerantes con el fin de fomentar el bienestar de la niñez, con espectáculos, inflables y actividades recreativas, comenzando a darle forma a lo que más tarde ingresaría como asociación civil, avalada por la DGR (Dirección General de Registros), nace Brazo Solidario.
+
+Muchas veces se nos pasa por alto el valor que tiene la conexión en el desarrollo humano y sabemos la capacidad transformadora que tienen los referentes, dejando una huella que puede llegar a ser muy positiva, moral y afectiva. Esto ocasionó que se comiencen a plantear nuevas problemáticas y posibles abordajes, no solo intentar que tengan comida, sino también un entorno donde sentirse acompañados, para poder culminar su trayectoria académica y también a su vez brindarles un espacio seguro donde puedan sentirse escuchados.
+
+Fue así que en 2017 se formalizó a Brazo Solidario como ONG, posicionándose desde una perspectiva centrada en la promoción de derechos y la educación, entendiendo a las infancias y adolescencias como sujetos de derechos, y apostando a una mirada integral que contemple sus distintas realidades y necesidades, la cual a día de hoy cuenta con 4 proyectos funcionando en conjunto por una red de casi 60 voluntarias y voluntarios, participando de ellos más de 250 infancias. Con presencia en Villa Española, Sayago, Pinar y su barrio de origen Villa Camila.
+
+Cada fin de semana se movilizan recursos entre los proyectos para poder llevar merienda a todas las infancias, la cual se consigue mediante la financiación a través de rifas o venta de comida casera, ya que esta ONG lo que le sobra es amor, pero lo que le faltan son donaciones y padrinos. Lejos de frustrarse con esta situación cada año redoblan los esfuerzos para hacer llegar la calidez de los brazos a todas las infancias posibles.`,
+    subtitulo: "",
+    contenido2: `Brazo Solidario tiene cada año cuatro puntos claves para enfrentar: a principio de año una campaña de útiles escolares, con la llegada del invierno la campaña de abrigo para las infancia y sus familias, por último la campaña de recolección de juguetes para el día de la niñez y para la llegada del tan esperado por muchos “papá Noel”.
+
+Aunque parezca una organización consolidada y uno de sus colores principales sea el verde, viven raspando los números rojos. Teniendo problemas para encontrar lugares estables en donde llevar a cabo las actividades, muchas veces pagando alquileres de salones sin ningún apoyo u otras veces realizando las jornadas al aire libre en plazas, tarea que con la entrada del invierno se dificulta en demasía y otras veces con mucho dolor teniendo que dar el cese de actividades a proyectos, como fue el caso de Safici ubicado en Ciudad del Plata, Sán Jose. Que frente a la falta de ingresos económicos y de un espacio para desarrollar correctamente las actividades no tuvieron más opción que suspender indefinidamente las tareas que llevaban a cabo.
+
+Todo esto no sería posible sin el trabajo incansable de las y los voluntarios que conforman esta ONG, siendo muchas veces voluntarios y padrinos al mismo tiempo, esperando por parte del Estado, al cual se le ha pedido en varias ocasiones apoyo, según me llegaron a comentar integrantes con los que tuve el placer de conversar.
+
+Frente a la falta de recursos, un Estado que se ausenta y una problemática urgente como es la pobreza infantil en Uruguay representando en 2026 un 32% (según datos proveídos por el INE), esta organización es un claro ejemplo de que a pesar de la mercantilización  cómo la acción colectiva puede engendrar de sus entrañas lo más bello de las personas: La comunidad.`,
     imagenes: [
-      "/Imagenes/gato1.jpg",
-      "/Imagenes/gato1.jpg",
-      "/Imagenes/gato1.jpg",
+      "/Imagenes/brazo.jpg",
+      "/Imagenes/brazo4.jpg",
+      "/Imagenes/brazo3.jpg",
+      "/Imagenes/redalco2.jpg",
+      "/Imagenes/redalco1.jpg",
     ],
-    tituloIngles: "",
-    contenidoIngles: ``,
+    tituloIngles: "Redalco: a decade fighting food waste in Uruguay",
+    contenidoIngles: `Every year, approximately 1.05 billion tons of food are wasted worldwide, while in Uruguay alone an estimated 125 million kilograms of fruits and vegetables are discarded. This situation highlights a striking paradox in a society where poverty and food insecurity continue to affect a growing number of families. In response to this challenge, the Red of Alimentos Compartidos (REDALCO) was founded in 2015 by a group of students and formally established in 2016. The organization was created to rescue fruits and vegetables that, despite being perfectly suitable for consumption, are often discarded due to their appearance, size, color, or simply because of overproduction. Since its creation, REDALCO has become a national leader in food recovery and redistribution, helping to reduce food waste while supporting thousands of families across Uruguay.
+REDALCO's primary mission is to recover these foods and distribute them through social organizations that serve people in need. To achieve this goal, the organization operates through three key stages: collection, sorting, and redistribution. Food is collected from the Metropolitan Agrifood Unit (UAM) and from farms located throughout the country. It is then carefully sorted by a team of employees and volunteers before being delivered to schools, community kitchens, youth centers, and soup kitchens across Uruguay.
+Over the years, REDALCO has experienced remarkable growth. In its early stages, the organization distributed just over 22,000 kilograms of food. By 2025, that figure had increased to approximately 1.6 million kilograms annually, representing more than seventy times its initial capacity. Today, REDALCO collaborates with over 400 organizations and contributes to the nutrition of approximately 50,000 people every week. This work has had a significant impact in a country where many families still struggle to access adequate and nutritious food.
+Beyond its logistical efforts, REDALCO also seeks to raise awareness about the value of food that is frequently discarded for purely aesthetic reasons. The organization promotes the idea that products do not lose their nutritional value simply because they fail to meet commercial appearance standards. In addition, REDALCO encourages civic engagement through volunteer programs, food-sorting campaigns, and partnerships with private companies and public institutions.
+REDALCO serves as an example of how social challenges can inspire collective action driven by compassion and commitment. In a society often characterized by individualism, the organization fosters cooperation between volunteers, businesses, and communities while simultaneously reducing the environmental impact of food waste. Its success demonstrates that, with determination and collaboration, it is possible to improve access to nutritious food for thousands of people.
+`,
   },
   {
     id: 2,
