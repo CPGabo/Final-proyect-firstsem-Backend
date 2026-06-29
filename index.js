@@ -30,20 +30,70 @@ const articulos = [
   },
   {
     id: 2,
-    titulo: "Titulo del segundo artículo",
+    titulo: "cuando uruguay aprendio a ver a sus niños",
     autor: "Candela Ferreira",
     categoria: "INFANCIAS",
     descripcion: "Descripcion breve del artículo.",
-    contenido: ``,
-    subtitulo: "El subtítulo acá",
-    contenido2: ``,
+    contenido: `El origen de las políticas de protección a la infancia en Uruguay no fue un acto
+de generosidad, fue el resultado de décadas de lucha por reconocer que la niñez
+tiene derechos.
+Antes de 1934, los niños vulnerables en Uruguay dependían de la caridad
+organizada: asilos privados, orfanatos y comisiones de beneficencia gestionaban su
+cuidado sin que el Estado asumiera ninguna responsabilidad directa.
+Ese año todo cambió con la promulgación del Código del Niño, una ley que
+introdujo algo revolucionario para su época: la idea de que la infancia no es un
+objeto de compasión, sino un sujeto de derechos.
+
+    subtitulo: "",
+    contenido2: `Como consecuencia directa, el 6 de abril de 1934 nació el Consejo del Niño, el
+primer organismo estatal especializado en el cuidado y la protección de niños, niñas
+y adolescentes del país. Su creación marcó un punto de cambio el Estado dejó de
+delegar en la caridad la responsabilidad de cuidar a los más vulnerables.
+En sus primeros años, el Consejo organizó su trabajo por etapas del desarrollo
+desde el período prenatal hasta la adolescencia, combinando perspectivas médicas,
+jurídicas y sociales. Poco a poco, fue asumiendo la administración de los asilos y
+orfanatos que antes dependían de la asistencia pública. Eran instituciones
+residenciales, herencia de una época en que separar a un niño de su entorno
+vulnerable parecía la solución.
+A partir de 1967 comenzó una transformación más profunda: el organismo
+adoptó un perfil más técnico y profesional. Las trabajadoras sociales, los psicólogos
+y los educadores empezaron a ocupar un rol central. Los viejos asilos se
+convirtieron en centros de observación y derivación. Se crearon policlínicas, hogares
+de tránsito y programas de apoyo a las madres. La lógica pasó del encierro a la
+intervención temprana.
+El giro más significativo llegó en la década de 1980, cuando el Consejo del
+Niño comenzó a incorporar un enfoque preventivo e interdisciplinario. Este cambio
+se ajustó con los desarrollos globales en 1989, las Naciones Unidas adoptaron la
+Convención sobre los Derechos del Niño, el tratado de derechos humanos más
+ratificado de la historia. Uruguay la incorporó plenamente al Código de la Niñez y
+
+Adolescencia en 2004, la ley que dio origen al nombre que conocemos hoy: Instituto
+del Niño y Adolescente del Uruguay.
+Hoy el INAU atiende a más de 106.000 niños, niñas y adolescentes en todo el país.
+Organiza programas de primera infancia, clubes de tiempo libre y centros juveniles.
+Pero también enfrenta una crisis que interpela a toda la población con muertes bajo
+la responsabilidad del estado, un sistema de salud mental frágil y una preocupante
+agenda de desinstitucionalización. Comprender sus orígenes noventa años de
+historia es fundamental para entender por qué lo que le pasa al INAU le pasa a
+Uruguay en su conjunto.
+Cuidar a la infancia no es una política social más, ni un gasto presupuestal a
+futuro, es el acto ético fundamental que justifica la existencia de un Estado. Un país
+que no protege a sus niños no está construyendo su futuro, sino que está
+comprometiendo su propia existencia ante la sociedad. Porque la forma en que
+Uruguay mire, proteja y dignifique a sus niños hoy es, en última instancia, la medida
+exacta de su propia humanidad y de su justicia, si fallamos en el origen, estamos
+comprometiendo el destino. Por eso, aunque existan avances, la desigualdad y la
+falta de oportunidades nos siguen planteando una pregunta incómoda y profunda:
+¿qué tipo de sociedad pretendemos construir si permitimos que algunos niños
+crezcan sin las mismas posibilidades que otros.
     imagenes: [
-      "/Imagenes/gato1.jpg",
-      "/Imagenes/gato1.jpg",
-      "/Imagenes/gato1.jpg",
-    ],
-    tituloIngles: "",
-    contenidoIngles: ``,
+      "/2articulo.pgn",
+      "/articuloinau.pgn",
+      ],
+    tituloIngles: "When Uruguay learned to see its children, in English",
+    contenidoIngles: `Caring for children is not just another social policy, nor a future budget expense — it is the fundamental ethical act that justifies the existence of a State.
+     A country that does not protect its children is not building its future; it is jeopardizing its own existence before society. Because the way Uruguay looks at, protects, and dignifies its children today is, ultimately, the exact measure of its own humanity and justice. If we fail at the origin, we are jeopardizing the destiny.
+      That is why, even though progress has been made, inequality and the lack of opportunities continue to raise an uncomfortable and profound question for us: what kind of society do we intend to build if we allow some children to grow up without the same opportunities as others?`,
   },
   {
     id: 3,
